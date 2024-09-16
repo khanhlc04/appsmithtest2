@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66e16b480990e309864b86a8_1d2cdb76-9e33-4578-9f05-f55aa1f8d313",
+  "id": "Document Viewer_Detail_Document_Data",
+  "unpublishedCollection": {
+    "name": "Detail_Document_Data",
+    "pageId": "Document Viewer",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "data",
+        "value": "undefined"
+      }
+    ]
+  }
+}

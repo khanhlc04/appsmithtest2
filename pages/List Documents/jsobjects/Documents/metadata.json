@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "66e16b480990e309864b86a8_a25cbc97-d729-41ba-83b0-902bd6239f58",
+  "id": "List Documents_Documents",
+  "unpublishedCollection": {
+    "name": "Documents",
+    "pageId": "List Documents",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "data",
+        "value": "[{}]"
+      }
+    ]
+  }
+}
