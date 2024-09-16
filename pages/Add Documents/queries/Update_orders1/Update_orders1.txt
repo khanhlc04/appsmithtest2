@@ -1,0 +1,1 @@
+UPDATE orders SET user_id= '{{Table1.updatedRow.user_id}}', product_name= '{{Table1.updatedRow.product_name}}', quantity= '{{Table1.updatedRow.quantity}}', order_date= '{{Table1.updatedRow.order_date}}' WHERE id= '{{Table1.updatedRow.id}}';
